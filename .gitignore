@@ -1,0 +1,4 @@
+api/.env
+api/devjobs.db
+api/node_modules/
+.DS_Store
